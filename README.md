@@ -1,22 +1,19 @@
-# E-commerce_Sales_Analysis
-Power BI Dashboard analyzing e-commerce sales data
 # 📊 E-commerce Sales Analysis Dashboard
 
-This project contains an interactive Power BI dashboard designed to analyze sales data from an e-commerce platform.
+## 🔹 Project Overview
+This project analyzes E-commerce data and builds an interactive dashboard in Power BI.  
+The dashboard shows monthly sales, product performance, and customer reviews across categories like Sports, Toys, Electronics, Books, Clothing, Health, and Home & Kitchen.
+
+---
+
+## 🔹 Dashboard Insights
+- **Sales in Month** → Monthly sales by product category (Bar Chart)  
+- **Product Score** → Contribution of each category in total sales (Pie Chart)  
+- **Product Review** → Distribution of customer reviews across categories (Donut Chart)  
+
+---
+
+## 🔹 Role of SQL
+SQL was used to clean the raw data, join multiple tables, and calculate key metrics before building the Power BI dashboard.
 
 
-## 🚀 Features
-- Monthly Sales Trends
-- Top Performing Products
-- Review Count & Score Analysis
-- Region-wise Sales Distribution
-- Product ID & Sales Mapping
-
-## 🛠 Tools Used
-- Power BI
-- DAX (for calculated fields)
-- Excel/CSV data source (optional)
-
-## 📁 Project Files
-- Sales Dashboard.pbix: 
-- `README.md`: Project overview
